@@ -6,6 +6,7 @@ This project cleans and processes raw car listings data, performs exploratory da
 To develop and evaluate machine learning models that can accurately predict used car prices based on historical sales data
 📁 Dataset
 Name: Quikr Car Dataset
+
 🛠 Technologies Used
 Python
 Pandas, NumPy – Data cleaning & preprocessing
