@@ -12,6 +12,7 @@ Python
 Pandas, NumPy – Data cleaning & preprocessing
 Matplotlib, Seaborn – Data visualization
 Scikit-learn – Machine learning models
+
 🤖 Machine Learning Models Applied
 Model Type	Description
 Linear Regression	Linear model for price prediction
@@ -19,7 +20,13 @@ Random Forest	Ensemble method (Bagging)
 Decision Tree	Tree-based prediction
 Gradient Boosting	Ensemble method (Boosting)
 K-Nearest Neighbors (KNN)	Instance-based learning
-📊 Results Snapshot
+
+📊 Results SnapshotModel	R² Score
+Linear Regression	0.78
+Decision Tree	0.85
+Random Forest	0.91
+Gradient Boosting	0.89
+KNN	0.75
 Model	R² Score
 Linear Regression	0.78
 Decision Tree	0.85
